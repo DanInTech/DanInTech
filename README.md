@@ -37,7 +37,7 @@ Building bridges between tech and people through data-driven innovation.
   - Reduction in manual testing using Selenium automated tests  
   - Boosted platform deployment reliability  
 - 📡 **Implementation of Huawei's national telecommunication network**
-  -  
+  - ... 
 - 🤖 **SCADA Systems for Critical Infrastructure** (Motorola)  
   - Real-time SCADA automation systems in oil/gas and distribution  
 - 🧪 **Neural Network for Healthcare Data**  
