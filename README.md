@@ -43,18 +43,18 @@ Super computer
 
 ---
 
-## 🚀 Projects
+## 💼 Work and 🚀 Projects
 
 - 🧪 **Neural Network for Healthcare Data**  
   - Awarded by CSUN Data Jam Jury  
-  - Predictive model for early health risk detection  
-- 📉 **Automated QA Pipelines at Steady**  
-  - 50% reduction in manual testing using Selenium  
+  - Predictive model for menatal health risk detection  
+- 📉 **Website testing at Steady Technologies**  
+  - 50% reduction in manual testing using Selenium automated tests  
   - Boosted platform deployment reliability  
 - 📡 **SCADA Systems for Critical Infrastructure** (Motorola)  
-  - Real-time automation in oil/gas distribution  
-- 📱 **Snapdragon Compiler Testing Framework**  
-  - Enabled faster chip validation and debugging
+  - Real-time SCADA automation systems in oil/gas and distribution  
+- 📱 **Qualcomm's Snapdragon Compiler Testing Framework**  
+  - Enabled faster graphic chip validation and debugging
 
 ---
 
@@ -80,7 +80,7 @@ Super computer
 
 ## 🌐 Connect with Me
 
-- 💼 Let’s collaborate on projects in AI, GIS, or EdTech!
+- 🤝 Let’s collaborate on projects in AI, GIS, or EdTech!
 
 ---
 
