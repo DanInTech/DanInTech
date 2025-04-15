@@ -37,7 +37,7 @@ Super computer
 
 ## 🧠 Developed Workshops
 
-- **Intro to GitHub for version control** – Basics of Git and version control
+- **[Intro to GitHub for version control](https://github.com/DanInTech/Intro_GIT)** – Basics of Git and version control
 - **SQL with DBeaver** – Data manipulation and querying with real-world datasets  
 
 
