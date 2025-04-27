@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sea Urchin Project - Aerial Imagery</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 20px; }
+        img { width: 80%; height: auto; margin: 20px 0; border: 2px solid #ccc; }
+    </style>
+</head>
+<body>
+    <h1>Sea Urchin Project - Aerial Imagery</h1>
+    <p>Captured drone imagery for marine habitat mapping.</p>
+
+    <img src="images/aerial_1.jpg" alt="Aerial Image 1">
+    <img src="images/aerial_2.jpg" alt="Aerial Image 2">
+    <img src="images/aerial_3.jpg" alt="Aerial Image 3">
+
+    <footer><small>Project by [Your Name] | 2025</small></footer>
+</body>
+</html>
