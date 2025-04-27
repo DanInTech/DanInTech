@@ -44,7 +44,8 @@ Building bridges between tech and people through data-driven innovation.
   - Awarded by CSUN Data Jam Jury  
   - Predictive model for menatal health risk detection
 - 🪸 **Sea Urchin Mapping and Detection for the Sake of Kelp Forest**
-  - **[StoryMap](https://storymaps.arcgis.com/stories/076a7d2070fe48dba46d6501e8bfbd83)** - Interactive presentation   
+  - **[StoryMap](https://storymaps.arcgis.com/stories/076a7d2070fe48dba46d6501e8bfbd83)** - Interactive presentation
+  - **[Website](https://danintech.github.io/DanInTech/LagunaProject/)**
 
 ---
 
