@@ -42,7 +42,9 @@ Building bridges between tech and people through data-driven innovation.
   - Real-time SCADA automation systems in oil/gas and distribution  
 - 🧪 **Neural Network for Healthcare Data**  
   - Awarded by CSUN Data Jam Jury  
-  - Predictive model for menatal health risk detection  
+  - Predictive model for menatal health risk detection
+- 🪸 **Sea Urchin Mapping and Detection for the Sake of Kelp Forest**
+  - **[StoryMap](https://storymaps.arcgis.com/stories/076a7d2070fe48dba46d6501e8bfbd83)** - Interactive presentation   
 
 ---
 
