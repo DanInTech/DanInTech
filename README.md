@@ -42,11 +42,15 @@ Building bridges between tech and people through data-driven innovation.
   - Real-time SCADA automation systems in oil/gas and distribution  
 - 🧪 **Neural Network for Healthcare Data**  
   - Awarded by CSUN Data Jam Jury  
-  - Predictive model for menatal health risk detection
+  - Predictive model for mental health risk detection
 - 🪸 **Sea Urchin Mapping and Detection for the Sake of Kelp Forest**
   - **[StoryMap](https://storymaps.arcgis.com/stories/076a7d2070fe48dba46d6501e8bfbd83)** - Interactive presentation
-  - **[Report summary](missing)
+  - **[Report summary](https://public.tableau.com/shared/CW69ZK6MX?:display_count=n&:origin=viz_share_link)**
   - **[Aerial Imagery](https://danintech.github.io/DanInTech/LagunaProject/)**
+- 🏫 **Campus Multi Spectral Mapping**
+  - **[Imagery](missing)**
+- 🪅 **LIB music festival**
+  - **[Imagery](missing)**
 
 ---
 
@@ -94,19 +98,5 @@ Super computer
 
 _“Data is powerful, but people make it meaningful.”_
 
-<!--
-**DanInTech/DanInTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DanInTech&style=flat-square)
