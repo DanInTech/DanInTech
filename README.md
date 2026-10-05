@@ -49,9 +49,9 @@ For more than two years I've taught hands-on workshops at Claremont McKenna's Qu
 Crossing Boundaries Research Award, CGU (2025–26 and 2026–27) · CalGPN Summer Digital Competition winner, featured in *GIS Professional* (2025) · Esri User Conference student assistantship (2025) · NSF Student Champion (2024) · CSUN Data Jam jury prize (2019) · Invited talks: LA County GIS Day, IEGIS User Group (2025)
 
 ## 🧰 Tools
-**Geospatial:** ArcGIS Pro · ArcGIS StoryMaps · Experience Builder · Survey123 · QuickCapture · Business Analyst · QGIS · Pix4D · Blackshark.ai · drone capture (FAA Part 107)
+**Geospatial:** ArcGIS Pro · ArcGIS StoryMaps · ArcGIS Hub · ArcGIS Dashboards · Experience Builder · Survey123 · QuickCapture · Business Analyst · QGIS · Pix4D · Blackshark.ai · drone capture (FAA Part 107)
 **Data & ML:** Python · SQL · R · machine learning · computer vision (YOLO) · Tableau · Power BI · QuickSight
-**Engineering:** Git · Linux · Docker · Jenkins · Selenium · AWS · HPC
+**Engineering:** Git · GitHub · Linux · Docker · Jenkins · Selenium · AWS · HPC
 
 ## 🤝 Let's connect
 I'm always glad to talk about geospatial AI, drones and multispectral imaging, environmental monitoring, or teaching data science, and I'm open to research collaborations and new opportunities. Reach me on [LinkedIn](https://www.linkedin.com/in/dan-perezc) or at dfperezc@gmail.com.
