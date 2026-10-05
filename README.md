@@ -24,6 +24,7 @@ Sea urchin overgrazing is a major driver of kelp forest loss. In a protected int
 - **Mapping kelp forests with multispectral imagery** (2026–27), funded by my second Crossing Boundaries Research Award, in collaboration with the nonprofit Get Inspired
 - **Dissertation:** how useful multispectral imagery is for identifying plant health in coffee or vineyard crops, with case studies planned in Colombia
 - **ImprezTech** (nonprofit): drone mapping and AI for festival city planning (LIB, Northern Nights): vehicle counts with YOLO, population and campsite assessment, flow analysis, heatmaps and digital twins
+- **Rose Institute of State and Local Government** (Claremont McKenna College): dashboards, data hubs, a website, and analysis and visualization workflows for research on state government and law
 
 ## 🎓 Education
 - **Ph.D., Information Systems & Technology** (Data Science & Analytics; Geographic Information Systems), Claremont Graduate University, expected 2027. Qualifying exam passed with honors.
