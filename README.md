@@ -16,9 +16,9 @@ Sea urchin overgrazing is a major driver of kelp forest loss. In a protected int
 - **Result:** the drone covered **~3.1× the area in one-fifth of the time**, while handheld imagery gave the AI **higher detection confidence** (median 0.898 vs. 0.813). The best program combines both.
 - **Explore:** [StoryMap](https://storymaps.arcgis.com/stories/076a7d2070fe48dba46d6501e8bfbd83) · [Tableau report](https://public.tableau.com/shared/CW69ZK6MX?:display_count=n&:origin=viz_share_link) · [Aerial imagery](https://danintech.github.io/DanInTech/LagunaProject/)
 
-**Publications**
-- Perez, D. (2025). *Geospatial evaluation of sea urchin population with AI for the sake of marine forest, a comparative analysis.* IEEE AIxHeart Conference.
-- Perez, D., & Arias Casillas, V. (2026). *AI-Driven Geospatial Evaluation of Sea Urchin Populations in Intertidal Habitats: A Comparative Analysis.* Presented at the Global Interdisciplinary Green Cities Conference.
+**Papers & posters**
+- Perez, D., & Arias Casillas, V. (2026). *AI-Driven Geospatial Evaluation of Sea Urchin Populations in Intertidal Habitats: A Comparative Analysis.* Presented at the Global Interdisciplinary Green Cities Conference; submitted for journal publication.
+- Perez, D. (2025). *Geospatial evaluation of sea urchin population with AI for the sake of marine forest, a comparative analysis.* Poster, IEEE AIxHeart Conference.
 
 ## 🔭 Now
 - **Mapping kelp forests with multispectral imagery** (2026–27), funded by my second Crossing Boundaries Research Award, in collaboration with the nonprofit Get Inspired
